@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0448f92-0508-413b-bfa2-af0c044ec552" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1btUWoLed8vra7bVxah92U7j2wl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cbvSerializers" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0448f92-0508-413b-bfa2-af0c044ec552" name="Default Changelist" comment="" />
+      <created>1589450917576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589450917576</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="154" key="FileChooserDialogImpl" timestamp="1589614808402">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="483" y="154" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1589614808402" />
+    <state x="378" y="89" width="675" height="678" key="search.everywhere.popup" timestamp="1589452332123">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="378" y="89" width="675" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1589452332123" />
+  </component>
+</project>
